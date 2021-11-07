@@ -1,24 +1,29 @@
-
+<div>
 <p align="center">
   <a href="#">
-    <img align="center" width="600" src="Laranja e Branco Divertido Apresentação Animada sobre Namoro (1).gif" />
+    <img align="center" width="700" src="Laranja e Branco Divertido Apresentação Animada sobre Namoro (1).gif" />
   </a>
- 
+ </div>
  
 
 
  <a href="https://github.com/thalitacesar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thalitacesar&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalitacesar&layout=compact&langs_count=7&theme=buefy"/>
-</div>
+
  
   ## Sobre Mim ✌
 <div style="display: inline_block"  >
 <img align="right" width="300" height="250" style="border-radius:30px;" src="https://c.tenor.com/KThP19wcsrQAAAAC/monica-turmadamonica.gif" />
+  </div>
  
-* 🤓 *Estou estudando programação!!!*
+* 🤓 *Em transição de carreira. Estou estudando programação.*
 * 👩‍💻 *Pronome: ela/dela.*
-* 🇧🇷 *I’m from Brazil.*
+* 👨‍🎓 *Eu não escolhi a tecnologia, a tecnologia que me escolheu. Se tudo fosse como eu queria não estaria aqui.*
+* 🧐 *Inteligênte e criativa de herança, determinada por resiliência.*
+* 🇧🇷 Brasil
+
+
  
 ## Minhas Skills 
  
