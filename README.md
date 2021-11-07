@@ -20,7 +20,7 @@
 * 🤓 *Em transição de carreira. Estou estudando programação.*
 * 👩‍💻 *Pronome: ela/dela.*
 * 👨‍🎓 *Eu não escolhi a tecnologia, a tecnologia que me escolheu. Se tudo fosse como eu queria não estaria aqui.*
-* 🧐 *Inteligênte e criativa de herança, determinada por resiliência.*
+* 🧐 *Nerd e criativa de herança, determinada por resiliência.*
 * 🇧🇷 Brasil
 
 
