@@ -43,4 +43,6 @@
  
 </div>
 
-   ![Snake animation](https://github.com/thalitacesar/thalitacesar/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/ThalitaCesar/ThalitaCesar/blob/output/github-contribution-grid-snake.svg)
+  
+
