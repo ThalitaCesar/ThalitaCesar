@@ -1,7 +1,7 @@
 <div>
 <p align="center">
   <a href="#">
-    <img align="center" width="700" src="Laranja e Branco Divertido Apresentação Animada sobre Namoro (1).gif" />
+    <img align="center" width="700" src="Laranja e Branco Divertido Apresentação Animada sobre Namoro (2).gif" />
   </a>
  </div>
  
