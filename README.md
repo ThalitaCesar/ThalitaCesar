@@ -16,9 +16,8 @@
  
 * 🤓 *Em transição de carreira. Estou estudando programação.*
 * 👩‍💻 *Pronome: ela/dela.*
-* 👨‍🎓 *Eu não escolhi a tecnologia, a tecnologia que me escolheu. Se tudo fosse como eu queria não estaria aqui.*
-* 🧐 *Nerd e criativa de herança, determinada por resiliência.*
-* 🇧🇷 Brasil
+* 👨‍🎓 *Eu não escolhi a tecnologia, a tecnologia que me escolheu. Sou formada em serviço social e passei muito tempo procurando me encontrar em alguma profissão, nunca sentia afinidade em nada que tentava, essa profissão sempre estave ali meio que indireta, pois trabalhava com tecnologia na área administrativa e amava tecnologia. Em meio a muito caminho andado acabei me encontrando na programação. Acredito que tudo acontece no tempo certo.*
+* 🧐 *Nerd e criativa de herança*
 
 
  
