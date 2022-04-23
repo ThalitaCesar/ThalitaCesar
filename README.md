@@ -9,13 +9,6 @@
  <a href="https://github.com/thalitacesar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thalitacesar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/thalitacesar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalitacesar&layout=compact&theme=buefy&hide_border=true" /></a> |
 
  
-  ## Sobre Mim ✌
-<div style="display: inline_block"  >
-<img align="right" width="300" height="250" style="border-radius:30px;" src="https://c.tenor.com/KThP19wcsrQAAAAC/monica-turmadamonica.gif" />
-  </div>
-
-
- 
 ## Minhas Skills 
  
 <div style="display: inline_block"><br>
