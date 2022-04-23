@@ -15,18 +15,6 @@
   </div>
 
 
-* </> Nerd e criativa por natureza. 🤓  </>
-* 
-[
-{ 👩‍💻 Em transição de carreira de serviço social para a área da tenologia. },
-
-{ 🧐 Estou estudando programação no curso de Desenvolvimento Web Full Stack na Labenu e estudo de forma autodidata Front End (html, css e javascript) há quase um ano.},
-
-{ 👨‍🎓Eu não escolhi a tecnologia, a tecnologia que me escolheu. Passei muito tempo procurando me encontrar em alguma profissão, essa busca me levou a um sentimento de frustração, porém essa profissão sempre esteve ali e foi bloqueada por preconceitos (pensar que tecnologia era para homens, era de exatas, era para nerds, etc.), pois amava tecnologia. Em meio a uma crise econômica e poucas oportunidades de emprego tive que parar rever minha vida profissional, foi ai que tive a coragem de arriscar numa transição de carreira, me arrependo de não ter feito antes. 
-Em meio a muito caminho andado acabei me encontrando na programação. Acredito que tudo acontece no tempo certo e foi preciso passar essas experiências para estar preparada.}
-]
-
-
  
 ## Minhas Skills 
  
