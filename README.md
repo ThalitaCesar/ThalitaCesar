@@ -1,20 +1,26 @@
-<div>
-<h2 align="center"> Olá, eu sou Thalita.
+
+<h2 align="center"> Hello strangers 🤘🏻
  </h2>
  
- <p align="center"> Sou desenvolvedora frontend. 
- </p>
- <p align="center"> 
- Me formei em Marketing em 2013 e em 2020 iniciei a transição para a área de tecnologia. 
- </p>
-  <p align="center"> <i> Fique a vontade para olhar meu github.</i>
- </p>
- </div>
- 
-  <p align="center"> 
- <a href="https://github.com/thalitacesar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalitacesar&layout=compact&theme=buefy&hide_border=true" /></a> 
-  </p>
+ * Antes de ser desenvolvedora era uma profissional de Marketing especializada em atendimento ao cliente e em 2020 iniciei a transição de carreira para a área de tecnologia. 
+ * Fiz o curso de técnico em TI no senac (Natal/RN) onde foi dividido em 3 módulos : hardware, redes e sotware. Sentindo mais afinidade com o sotware iniciei os estudos em frontend.
+ * Estou me formando em Full Stack developer pela Labenu, turma de 11/2022. 
+ * Trabalho como desenvolvedora front end júnior. Lido com algumas ferramentas e linguagens como : React.js, Node.js, Apollo Client, Docker, Styled Components e postgresql. 
+ * Estou me especializando em React.js e React Native.
+<br>
 
+  <i>Pegue uma xícara de café e fique a vontade para olhar meu github. ☕</i>
+ 
+ 
+<div align="center">
+ <a href="https://github.com/thalitacesar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalitacesar&layout=compact&theme=dark&hide_border=true" /></a> 
+ </div>
+ <br>
+ <div align="center">
+ 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thalitacesar&theme=dark)](https://git.io/streak-stats)
+
+ </div>
  
 <div>
 <h2 align="center"> Skills
@@ -32,17 +38,6 @@
 <img align="center" alt="firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
 </div>
 
-<div>
-<h2 align="center"> Me encontre
- </h2>
-
-<div align="center"> 
-
-  <a href = "mailto:thalita.walleska@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thalitac%C3%A9sar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
-</div>
 
   
 
