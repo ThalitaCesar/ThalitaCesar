@@ -2,7 +2,7 @@
 <h2 align="center"> Hello strangers 🤘🏻
  </h2>
  
- * Antes de ser desenvolvedora era uma profissional de Marketing especializada em atendimento ao cliente e em 2020 iniciei a transição de carreira para a área de tecnologia. 
+ * Antes de ser desenvolvedora eu era uma profissional de Marketing especializada em atendimento ao cliente e em 2020 iniciei a transição de carreira para a área de tecnologia. 
  * Fiz o curso de técnico em TI no senac (Natal/RN) onde foi dividido em 3 módulos : hardware, redes e sotware. Sentindo mais afinidade com o sotware iniciei os estudos em frontend.
  * Estou me formando em Full Stack developer pela Labenu, turma de 11/2022. 
  * Trabalho como desenvolvedora front end júnior. Lido com algumas ferramentas e linguagens como : React.js, Node.js, Apollo Client, Docker, Styled Components e postgresql. 
