@@ -1,7 +1,7 @@
 
  
  <img align="left" alt="Thalita-photo" height="250" style="border-radius:50px;" src="https://user-images.githubusercontent.com/83131771/208322402-4d78f8af-3443-4937-a4ab-23ee14404a24.jpeg">
-
+ 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77A10&width=435&lines=FullStack+Developer+Jr)](https://git.io/typing-svg)
   
  * Antes de ser dev eu era uma profissional de Marketing especializada em atendimento ao cliente. 
@@ -15,10 +15,10 @@
   
   
    
-<div align="center">
- <a href="https://github.com/thalitacesar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalitacesar&layout=compact&theme=dark&hide_border=true" /></a> 
- 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thalitacesar&theme=dark)](https://git.io/streak-stats)
+<div>
+ <a href="https://github.com/thalitacesar/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalitacesar&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thalitacesar&theme=dark&hide_border=true" /></a> 
  </div>
 
 
