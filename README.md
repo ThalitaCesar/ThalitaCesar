@@ -15,7 +15,7 @@
   
   
    
-<div>
+<div align="center">
  <a href="https://github.com/thalitacesar/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalitacesar&layout=compact&theme=dark&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thalitacesar&theme=dark&hide_border=true" /></a> 
