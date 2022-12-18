@@ -4,11 +4,10 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77A10&width=435&lines=FullStack+Developer+Jr)](https://git.io/typing-svg)
   
- * Antes de ser deva eu era uma profissional de Marketing especializada em atendimento ao cliente e em 2020 comecei a estudar tecnologia. 
- * Fiz o curso de técnico em TI no Senac em 2021 até 2022 (Natal/RN) onde foi dividido em 3 módulos : hardware, redes e software.
- * Fiz o curso de Full Stack Developer pela Labenu, turma de 11/2022. Dentre as stacks estão.
- * Trabalho atualmente como desenvolvedora frontend jr. Lido no dia-a-dia com algumas ferramentas e linguagens como: React.js, Node.js, GraphQL, Apollo Client, Docker, Styled Components, MongoDB e Postgresql.
- *  Além disso tenho estudado React Native.
+ * Antes de ser deva eu era uma profissional de Marketing especializada em atendimento ao cliente. 
+ * Fiz o curso de técnico em TI no Senac em 2021 até 2022 onde aprendi: hardware, redes e software.
+ * Me formei no curso de Full Stack Developer na Labenu, turma de 11/2022.
+ * Trabalho atualmente como desenvolvedora frontend jr. Lido no dia-a-dia com algumas ferramentas e linguagens como: React.js, Node.js, GraphQL, Apollo Client, Docker, Styled Components, MongoDB e Postgresql. Além disso tenho estudado React Native.
 <br>
 <br>
 
