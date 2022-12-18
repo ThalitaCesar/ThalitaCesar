@@ -11,7 +11,9 @@
 <br>
 <br>
 
-  <i>Pegue uma xícara de café e fique a vontade para olhar meu github. ☕</i>
+
+
+  <i align="center">Pegue uma xícara de café e fique a vontade para olhar meu github. ☕</i>
   
   
    
