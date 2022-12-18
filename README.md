@@ -1,11 +1,13 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=blackheight=160&section=header&text=Thalita%20César🤘🏻&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 
 <div align="center"> 
  
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77A10&width=435&lines=FullStack+Developer+Jr)](https://git.io/typing-svg)
  
  </div>
+ 
+ <img align="left" alt="Thalita-photo" height="250" style="border-radius:50px;" src="https://user-images.githubusercontent.com/83131771/208322402-4d78f8af-3443-4937-a4ab-23ee14404a24.jpeg">
+
  
  * Antes de ser deva eu era uma profissional de Marketing especializada em atendimento ao cliente e em 2020 comecei a estudar tecnologia. 
  * Fiz o curso de técnico em TI no Senac em 2021 até 2022 (Natal/RN) onde foi dividido em 3 módulos : hardware, redes e software.
