@@ -16,7 +16,8 @@
   <i>Pegue uma xícara de café e fique a vontade para olhar meu github. ☕</i>
  </div>
   
-  
+  <br>
+<br>
    
 <div align="center">
  <a href="https://github.com/thalitacesar/github-readme-stats">
