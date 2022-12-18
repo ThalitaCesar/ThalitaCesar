@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff9000&height=160&section=header&text=Thalita%20César🤘🏻&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=blackheight=160&section=header&text=Thalita%20César🤘🏻&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 
 <div align="center"> 
  
