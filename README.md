@@ -21,7 +21,7 @@ In my free time, I like to go hiking, read, meditate and listen to music. ☕
 
 
 
-<h2 align="center">Tools and Languages</h2>
+<h2 align="center">Tech Stacks</h2>
   <h3 align="center">Frontend</h3>
   <p align="center">
     <img height="40" width="40" src="https://cdn.simpleicons.org/css3/ff9000" /> 
