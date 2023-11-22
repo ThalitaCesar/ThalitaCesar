@@ -1,7 +1,6 @@
 
  
- <img align="left" alt="Thalita-photo" height="250" style="border-radius:50px;" src="https://user-images.githubusercontent.com/83131771/208322402-4d78f8af-3443-4937-a4ab-23ee14404a24.jpeg">
- 
+  
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77A10&width=435&lines=Frontend+Developer)](https://git.io/typing-svg)
 
 Hello everybody, my name is Thalita. I am a software developer. I am originally from Brazil and currently live in Natal/RN. I have a degree in marketing and started my career transition in 2021, I took a technical course in ti at senac and full stack web development at labenu. Currently, I work as a frontend developer.
