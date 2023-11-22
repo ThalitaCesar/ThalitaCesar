@@ -1,11 +1,14 @@
 
  
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77A10&width=435&lines=Frontend+Developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77A10&width=435&lines=Greetings+everyone+,)](https://git.io/typing-svg)
 
-Hello everybody, my name is Thalita. I am a software developer. I am originally from Brazil and currently live in Natal/RN. I have a degree in marketing and started my career transition in 2021, I took a technical course in ti at senac and full stack web development at labenu. Currently, I work as a frontend developer.
-I deal daily with tools and languages like: React.js, Node.js, GraphQL, Apollo Client, Docker, Styled Components, MongoDB and Postgresql. Besides that, I've been studying React Native.
-In my free time, I like to go hiking, read, meditate and listen to music. ☕
+
+My name is Thalita, and I am a seasoned software developer hailing from Brazil, currently residing in Natal/RN. I hold a degree in marketing, and in 2021, I made a deliberate career transition by enrolling in a technical course in Information Technology at Senac and completing a comprehensive program in full-stack web development at Labenu.
+
+Presently, I serve as a frontend developer, engaging daily with a suite of tools and programming languages such as React.js, Typescript, Node.js, GraphQL, Apollo Client, Docker, Styled Components, MongoDB, and Postgresql. Additionally, I am actively immersing myself in the intricacies of React Native through continuous study.
+
+Beyond the realm of coding, I find solace in my leisure pursuits. Hiking, reading, meditation, and music appreciation are activities that I hold dear in my free time. ☕
 
 <br>
 <br>
